@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("fifth commit"+"I love China by hit-fix");
         System.out.println("push_test commit"+"I love China");
         System.out.println("push_test commit1"+"I love China");
+        System.out.println("pull_test commit1"+"I love China");
     }
 }
