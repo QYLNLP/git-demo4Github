@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("third commit"+"I love China");
         System.out.println("fourth commit"+"I love China");
         System.out.println("sixth commit"+"I love China by master");
+        System.out.println("fifth commit"+"I love China by hit-fix");
     }
 }
